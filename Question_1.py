@@ -406,7 +406,6 @@ def visualise(hc_r, bfs_r, astar_r):
 if __name__ == "__main__":
     print()
     print("  CCS3600 – Assignment 2 | Question 1")
-    print("  Student: Muhammad Aslam Rofi Bin Mohd Rasu | 230405")
     print()
     hc_r    = hill_climbing()
     bfs_r   = best_first_search()
